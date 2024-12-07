@@ -70,6 +70,7 @@ class _Dashboardstate extends State<Dashboard> {
         ],
       ),
       body: _pages[_selectedIndex],
+      
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _selectedIndex,
          onTap: _onItemTapped,

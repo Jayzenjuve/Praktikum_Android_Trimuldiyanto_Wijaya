@@ -13,7 +13,7 @@ class _Calenderstate extends State<Calender>{
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text('ini calender'),
+        child: Text('Calender'),
       ),
     );
   }
